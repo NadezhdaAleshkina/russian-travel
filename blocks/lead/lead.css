@@ -1,13 +1,13 @@
 .lead {
   max-width: 984px;
-  margin: 3.5rem auto 0;
+  margin: 56px auto 0;
   padding: 0;
   width: calc(100% - 2 * 148px);
 }
 @media screen and (max-width: 1024px) {
   .lead {
     max-width: 928px;
-    margin-top: 3rem;
+    margin-top: 48px;
     width: calc(100% - 2 * 48px);
   }
 }
