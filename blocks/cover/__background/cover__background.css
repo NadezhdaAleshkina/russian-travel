@@ -16,14 +16,14 @@
 }
 
 .cover__background::before {
-  content: "";
+  content: '';
   display: block;
-  background-color: #2a2c2f;
-  opacity: 0.8;
+  background-color: #2A2C2F;
+  opacity: 0.3;
   position: absolute;
   top: 0;
-  bottom: 0;
   right: 0;
+  bottom: 0;
   left: 0;
   transition: 2s ease-in;
 }
